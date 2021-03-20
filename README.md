@@ -56,10 +56,10 @@ const printHello = function (name) {
 printHello("World");
 
 // invoke function as many times as we want
-printHello("World");
-printHello("Mike");
-printHello("Sami");
-printHello("Ahmad");
+printHello("SEI-15");
+printHello("Best students ever!");
+printHello("Saad");
+printHello("Sager");
 ```
 
 When we define a function that accepts data, we call the key word that will represent the data a `parameter`.
